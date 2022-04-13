@@ -5,7 +5,7 @@
 **Contexto**
 
 Neste projeto utilizamos às principais funcionalides do ES6, como arrow functions , template literals , spread operator , parâmetro rest e object destructuring. 
-Também podemos experimentar com as HOFs (Higher Order Functions) de JS mais utilizadas, tais como `forEach`, `map`, `filter`, `reduce`, `every`, `sort`, `find`, entre outras.
+Também podemos experimentar com as HOFs (Higher Order Functions) de JS mais utilizadas, tais como `forEach`, `map`, `filter`, `reduce`, `every`, `sort`, `find`, e outras.
 
 **Objetivo do projeto**
 
