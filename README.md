@@ -24,7 +24,7 @@ Desenvolver um sistema de relatório de um zoológico. O sistema possui informa�
 
 ---
 
-### Lista de requisitos propostos:
+### Lista de requisitos propostos pela Trybe:
 
 #### Obrigatórios
 
