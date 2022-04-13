@@ -1,8 +1,11 @@
 ## Projeto Zoo Functions
 
-Sétimo projeto do módulo de Fundamentos do curso de desenvolvimento web da Trybe. \
+> Sétimo projeto do módulo de Fundamentos do curso de desenvolvimento web da Trybe.
+
+**Contexto**
+
 Neste projeto utilizamos às principais funcionalides do ES6, como arrow functions , template literals , spread operator , parâmetro rest e object destructuring. 
-Também podemos experimentar com as HOFs (Higher Order Functions) de JS mais utilizadas, tais como forEach, map, filter, reduce, every, sort, find, entre outras.
+Também podemos experimentar com as HOFs (Higher Order Functions) de JS mais utilizadas, tais como `forEach`, `map`, `filter`, `reduce`, `every`, `sort`, `find`, entre outras.
 
 **Objetivo do projeto**
 
@@ -15,6 +18,9 @@ Desenvolver um sistema de relatório de um zoológico. O sistema possui informa�
 - Escolher a _Higher Order Function_ mais adequada para a obtenção de um resultado esperado
 - Aprender a usar de forma conjunta as _Higher Order Functions_
 - Interpretar testes unitários e produzir soluções que atendam a eles
+
+**Tecnologias utilizadas**
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" align="center" height="30"/>  - JavaScript</a>
 
 ---
 
