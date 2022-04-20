@@ -1,6 +1,6 @@
 ## Projeto Zoo Functions
 
-> Sétimo projeto do módulo de Fundamentos do curso de desenvolvimento web da Trybe.
+> Sétimo projeto do módulo de Fundamentos do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
@@ -11,7 +11,7 @@ Também podemos experimentar com as HOFs (Higher Order Functions) de JS mais uti
 
 Desenvolver um sistema de relatório de um zoológico. O sistema possui informações a respeito dos animais presentes no zoológico, colaboradores, horários de funcionamento e uma tabela de preços que varia de acordo com a idade das pessoas que o visitam.
 
-**Principais habilidades desenvolvidas nesse trabalho:**
+**Principais habilidades desenvolvidas nesse trabalho**
 
 - Produzir código legível, conciso e expressivo utilizando as novas funcionalidades do ES6
 - Utilizar as _Higher Order Functions_ para manipular e criar arrays
@@ -19,7 +19,7 @@ Desenvolver um sistema de relatório de um zoológico. O sistema possui informa�
 - Aprender a usar de forma conjunta as _Higher Order Functions_
 - Interpretar testes unitários e produzir soluções que atendam a eles
 
-**Tecnologias utilizadas**
+**Tecnologia utilizada**
 - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" align="center" height="30"/>  - JavaScript</a>
 
 ---
@@ -119,3 +119,8 @@ Desenvolver um sistema de relatório de um zoológico. O sistema possui informa�
   - Com o id de um funcionário, retorna os animais pelos quais o funcionário é responsável
   - Com o primeiro nome de um funcionário, retorna os animais pelos quais o funcionário é responsável
   - Com o último nome de um funcionário, retorna os animais pelos quais o funcionário é responsável
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
+
